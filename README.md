@@ -27,17 +27,16 @@
 
 ## ⭐ Featured Projects / 精选项目
 
-| Project | Stars | What it does |
-|---|---|---|
-| [weixin-decrypte-script](https://github.com/ZedeX/weixin-decrypte-script) | ![Stars](https://img.shields.io/badge/%E2%AD%90-118-yellow) | 微信 4.x 数据库密钥解密，拿回你自己的聊天记录 |
-| [trae-local-api](https://github.com/ZedeX/trae-local-api) | ![Stars](https://img.shields.io/badge/%E2%AD%90-70-yellow) | 把 Trae IDE 变成本地 OpenAI/Anthropic 兼容 API 服务 |
-| [mandarin-reading-resource](https://github.com/ZedeX/mandarin-reading-resource) | ![Stars](https://img.shields.io/badge/%E2%AD%90-33-yellow) | 中小学语文示范诵读库 Web 播放平台 |
-| [zhangxuefeng-legency](https://github.com/ZedeX/zhangxuefeng-legency) | ![Stars](https://img.shields.io/badge/%E2%AD%90-24-yellow) | 张雪峰高考及考研问答集（结构化整理） |
-| [PhotoSleuth](https://github.com/ZedeX/PhotoSleuth) | 🔥 new | 百万级本地照片/视频智能搜索：语义搜索 + 人脸识别 + OCR + 地理定位，FastAPI + Qdrant，Local-first |
+| Project | What it does |
+|---|---|
+| [PhotoSleuth](https://github.com/ZedeX/PhotoSleuth) | 🔥 百万级本地照片/视频智能搜索：语义搜索 + 人脸识别 + OCR + 地理定位，可任意组合，FastAPI + Qdrant，Local-first |
+| [nova-invest](https://github.com/ZedeX/nova-invest) | AI-native 投资工作流：研究、决策、复盘全流程 AI 化 |
+| [agentforge](https://github.com/ZedeX/agentforge) | 企业级多 Agent 编排与治理平台 |
+| [CaiGuoQiang-Fireworks](https://github.com/ZedeX/CaiGuoQiang-Fireworks) | 蔡国强式烟花秀设计系统：把艺术主题转译为可执行的烟花秀制作手册 |
+| [shanghai-library-book-search](https://github.com/ZedeX/shanghai-library-book-search) | 上海图书馆书籍搜索与馆藏借阅状态查询（Server API / Web / CLI 多模式） |
 
 ## 🤖 AI Agent 工程化 / Agent Engineering
 
-- [agentforge](https://github.com/ZedeX/agentforge) — 企业级多 Agent 编排与治理平台
 - [Get-Shit-Done-Experiment](https://github.com/ZedeX/Get-Shit-Done-Experiment) — 系统性实验：GSD 框架对 AI Agent 任务完成率的影响
 - [zx-work-rag](https://github.com/ZedeX/zx-work-rag) — 个人工作文档 RAG 问答系统
 
@@ -45,7 +44,6 @@
 
 **所有项目从"生活中的真实麻烦"出发，用 AI 辅助开发，从想法到上线通常只要几天：**
 
-- [shanghai-library-book-search](https://github.com/ZedeX/shanghai-library-book-search) — 起因：每周给孩子跑图书馆查书太痛苦 → 上海图书馆馆藏/借阅状态查询（Web + API + CLI）
 - [zTimeTrain](https://github.com/ZedeX/zTimeTrain) → [z-time-train.vercel.app](https://z-time-train.vercel.app) — 给小学生的时间管理小火车
 - [campus-food-time-v2](https://github.com/ZedeX/campus-food-time-v2) — 校园食光 v2：学校菜谱发布平台（Cloudflare Workers + D1 + R2 + KV，TDD）
 - [growth-points-bank](https://github.com/ZedeX/growth-points-bank) — 家庭多租户任务/打卡/积分/奖励系统
