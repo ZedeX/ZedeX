@@ -13,9 +13,9 @@
 
 **Engineering @ ByteDance** · 20-year blogger · AI-native workflow builder
 
-20 年互联网老兵：写代码出身 → 产品经理 → 支付/金融 To B → 游戏行业（Unreal Engine 源码级开发）→ 现在全职拥抱 AI。我相信：**生活和工作里的每一个重复性麻烦，都值得被做成一个工具。**
+20 年互联网老兵：写代码出身 → 产品经理 → 支付/金融 To B → 现在全职拥抱 AI。我相信：**生活和工作里的每一个重复性麻烦，都值得被做成一个工具。**
 
-> I've been building things on the internet since 2006 — products, payments, games, and now AI agents. My rule of thumb: every repetitive annoyance in life deserves to become a tool.
+> I've been building things on the internet since 2006 — products, payments, and now AI agents. My rule of thumb: every repetitive annoyance in life deserves to become a tool.
 
 ---
 
@@ -23,7 +23,6 @@
 
 - **AI Agent 工程化**：多 Agent 编排与治理、把 LLM 真正落进日常工作流
 - **Vibe Coding**：需求拆解 → AI 编码 → 自己验收 → 打包发布，已用这套流程交付 30+ 个项目
-- **国产大模型工具化**：把豆包 / Trae / Qoder 等"封装"成 OpenAI 兼容 API，让本地工具链随便调用
 - **Local-first**：数据自己掌握，RAG / 语义搜索 / 人脸识别全部跑在自己机器上
 
 ## ⭐ Featured Projects / 精选项目
@@ -36,13 +35,8 @@
 | [zhangxuefeng-legency](https://github.com/ZedeX/zhangxuefeng-legency) | ![Stars](https://img.shields.io/badge/%E2%AD%90-24-yellow) | 张雪峰高考及考研问答集（结构化整理） |
 | [PhotoSleuth](https://github.com/ZedeX/PhotoSleuth) | 🔥 new | 百万级本地照片/视频智能搜索：语义搜索 + 人脸识别 + OCR + 地理定位，FastAPI + Qdrant，Local-first |
 
-## 🔧 AI 玩家工具箱 / LLM Hacking for the Chinese AI community
+## 🤖 AI Agent 工程化 / Agent Engineering
 
-把国内能用的模型能力"标准化"成 OpenAI 兼容接口，是我持续在做的事：
-
-- [doubao-free-api](https://github.com/ZedeX/doubao-free-api) — 豆包桌面客户端 → OpenAI 兼容 API（流式 / Vision / 思考模式）
-- [qoder-openapi](https://github.com/ZedeX/qoder-openapi) — QoderWork → 标准 OpenAI API
-- [trae-decrypted-local-api](https://github.com/ZedeX/trae-decrypted-local-api) / [trae-chat-decrypt](https://github.com/ZedeX/trae-chat-decrypt) — 解密 Trae 本地数据库，接入 Claude Code
 - [agentforge](https://github.com/ZedeX/agentforge) — 企业级多 Agent 编排与治理平台
 - [Get-Shit-Done-Experiment](https://github.com/ZedeX/Get-Shit-Done-Experiment) — 系统性实验：GSD 框架对 AI Agent 任务完成率的影响
 - [zx-work-rag](https://github.com/ZedeX/zx-work-rag) — 个人工作文档 RAG 问答系统
@@ -60,15 +54,11 @@
 - [famface](https://github.com/ZedeX/famface) — 家庭照片人脸自动聚类 + Web 界面（GPU 加速）
 - [SMSAutoGrab](https://github.com/ZedeX/SMSAutoGrab) — Android 验证码自动捕获到剪贴板
 
-## 🎮 Game Industry / 游戏行业
-
-Unreal Engine 源码级开发经验，长期关注引擎工具链与 UGC 生态（[UGCExample](https://github.com/ZedeX/UGCExample)、[zen](https://github.com/ZedeX/zen)）。
-
 ## ✍️ Writing / 写作
 
 从 2006 年写博客至今 20 年没断过：**[zedex.cn](https://zedex.cn)**
 
-- 记录了产品、支付、金融、游戏到 AI 的完整转型过程
+- 记录了产品、支付、金融到 AI 的完整转型过程
 - 近期更新：[Vibe Coding 实践系列](https://zedex.cn)（Agent 交互实录、工作流沉淀）、AI 工具改造手记
 - 站内还有一个 [20 年跨度的个人知识库](https://zedex.cn)（Obsidian + Hugo + GitHub Actions 自动部署）
 
